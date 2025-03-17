@@ -1,0 +1,877 @@
+Date: Wed, 30 Oct 2024 10:37:17 +0800 (CST)
+Message-ID: <1373006350.107772.1730255837934@confluence>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_107771_208477881.1730255837894"
+
+------=_Part_107771_208477881.1730255837894
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>1.=E8=8A=82=E7=82=B9=E5=B1=9E=E6=80=A7</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>1.=E8=8A=82=E7=82=B9=E5=B1=9E=E6=80=A7</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"id-1.=E8=8A=82=E7=82=B9=E5=B1=9E=E6=80=A7-=E8=8A=82=E7=82=
+=B9=E7=B1=BB=E5=9E=8B">=E8=8A=82=E7=82=B9=E7=B1=BB=E5=9E=8B</h2>
+<p>=E5=BC=80=E5=A7=8B=E8=8A=82=E7=82=B9 <strong>start</strong><br>=E5=9B=9E=
+=E5=A4=8D=E8=8A=82=E7=82=B9 <strong>reply</strong><br>=E8=B5=8B=E5=80=BC=E8=
+=8A=82=E7=82=B9 <strong>variable</strong><br>=E5=87=BD=E6=95=B0=E8=8A=82=E7=
+=82=B9 <strong>func</strong><br>=E6=9D=A1=E4=BB=B6=E8=8A=82=E7=82=B9 <stron=
+g>condition</strong><br>LLM=E8=8A=82=E7=82=B9 <strong>llm</strong><br>=E5=
+=BC=95=E5=AF=BC=E7=BB=93=E6=9D=9F <strong>end</strong><br>=E4=B8=8B=E4=B8=
+=80=E7=8E=AF=E8=8A=82&nbsp;<strong>next</strong></p>
+<p><strong>LLM=E4=BB=BB=E5=8A=A1=E5=A4=84=E7=90=86 llmtask</strong></p>
+<p><br></p>
+<p>=E5=AD=97=E6=AE=B5=E6=8F=8F=E8=BF=B0</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 40.=
+6575%;">
+<colgroup>
+<col style=3D"width: 10.9312%;">
+<col style=3D"width: 25.1012%;">
+<col style=3D"width: 19.973%;">
+<col style=3D"width: 43.9946%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E6=8F=8F=E8=BF=B0</th>
+<th class=3D"confluenceTh">=E7=B1=BB=E5=9E=8B</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">id</td>
+<td class=3D"confluenceTd">=E8=8A=82=E7=82=B9=E6=A8=A1=E5=9D=97ID</td>
+<td class=3D"confluenceTd">string</td>
+<td class=3D"confluenceTd">uuid</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">label</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=8A=82=E7=82=B9=E8=87=AA=E5=AE=
+=9A=E4=B9=89=E5=90=8D=E5=AD=97</td>
+<td colspan=3D"1" class=3D"confluenceTd">string</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=BC=80=E5=A7=8B=E8=8A=82=E7=82=
+=B9</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">flowType</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=B5=81=E7=A8=8B=E8=8A=82=E7=82=
+=B9=E7=B1=BB=E5=9E=8B</td>
+<td colspan=3D"1" class=3D"confluenceTd">string</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=8F=AA=E8=83=BD=E6=98=AF=E4=
+=BB=A5=E4=B8=8B=E5=85=AB=E7=A7=8D=EF=BC=9A</p><p>=E5=BC=80=E5=A7=8B=E8=8A=
+=82=E7=82=B9 <strong>start</strong><br>=E5=9B=9E=E5=A4=8D=E8=8A=82=E7=82=B9=
+ <strong>reply</strong><br>=E8=B5=8B=E5=80=BC=E8=8A=82=E7=82=B9 <strong>var=
+iable</strong><br>=E5=87=BD=E6=95=B0=E8=8A=82=E7=82=B9 <strong>func</strong=
+><br>=E6=9D=A1=E4=BB=B6=E8=8A=82=E7=82=B9 <strong>condition</strong><br>LLM=
+=E8=8A=82=E7=82=B9 <strong>llm</strong><br>=E5=BC=95=E5=AF=BC=E7=BB=93=E6=
+=9D=9F <strong>end</strong><br>=E4=B8=8B=E4=B8=80=E7=8E=AF=E8=8A=82&nbsp;<s=
+trong>next</strong></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">position</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=89=8D=E7=AB=AF=E8=8A=82=E7=82=
+=B9=E5=AE=9A=E4=BD=8D=E4=BD=BF=E7=94=A8=E7=9A=84=E5=9D=90=E6=A0=87</td>
+<td colspan=3D"1" class=3D"confluenceTd">Object</td>
+<td colspan=3D"1" class=3D"confluenceTd">{<br>"x": 454.98510354678695,<br>"=
+y": 721.4016845336229<br>}</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>inputs</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=BE=93=E5=85=A5=E8=8A=82=E7=82=
+=B9=E9=93=BE=E6=8E=A5</td>
+<td colspan=3D"1" class=3D"confluenceTd">Array(InputEntity)</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">output</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=BE=93=E5=87=BA=E8=8A=82=E7=82=
+=B9=E9=93=BE=E6=8E=A5=E4=BF=A1=E6=81=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">Array(OutputEntity)</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p>InputEntity=E7=B1=BB=E5=9E=8B=E5=AE=9A=E4=B9=89</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 34.=
+8493%;">
+<colgroup>
+<col style=3D"width: 12.7559%;">
+<col style=3D"width: 30.7087%;">
+<col style=3D"width: 21.4173%;">
+<col style=3D"width: 35.1181%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E6=8F=8F=E8=BF=B0</th>
+<th class=3D"confluenceTh">=E7=B1=BB=E5=9E=8B</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p class=3D"p1">connected</p></td>
+<td class=3D"confluenceTd">=E6=98=AF=E5=90=A6=E9=93=BE=E6=8E=A5=E4=BA=86=E8=
+=BE=93=E5=85=A5</td>
+<td class=3D"confluenceTd">bool</td>
+<td class=3D"confluenceTd">true/false</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">value</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=BE=93=E5=85=A5=E8=8A=82=E7=82=
+=B9=E5=AF=B9=E5=BA=94=E5=8F=96=E5=80=BC</td>
+<td colspan=3D"1" class=3D"confluenceTd">any</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=AF=8F=E4=B8=AA=E8=8A=82=E7=82=
+=B9=E7=B1=BB=E5=9E=8B=E5=AF=B9=E5=BA=94=E4=B8=80=E7=A7=8D=E5=9B=BA=E5=AE=9A=
+=E5=86=99=E6=B3=95=E7=9A=84value=EF=BC=8C=E8=AF=A6=E7=BB=86=E5=8F=82=E6=95=
+=B0=E8=AF=B7=E7=9C=8B=E4=BB=A5=E4=B8=8B=E8=8A=82=E7=82=B9=E7=BB=93=E6=9E=84=
+=E8=AE=BE=E8=AE=A1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p>OutputEntity=E7=B1=BB=E5=9E=8B=E5=AE=9A=E4=B9=89</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 12.7559%;">
+<col style=3D"width: 30.7087%;">
+<col style=3D"width: 21.4173%;">
+<col style=3D"width: 35.1181%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E6=8F=8F=E8=BF=B0</th>
+<th class=3D"confluenceTh">=E7=B1=BB=E5=9E=8B</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p class=3D"p1">key</p></td>
+<td class=3D"confluenceTd">=E8=BE=93=E5=87=BA=E8=8A=82=E7=82=B9=E7=9A=84key=
+</td>
+<td class=3D"confluenceTd">string</td>
+<td class=3D"confluenceTd">=E6=99=AE=E9=80=9A=E8=8A=82=E7=82=B9=E7=BB=9F=E4=
+=B8=80=E4=BD=BF=E7=94=A8next=EF=BC=8C=E6=9D=A1=E4=BB=B6=E8=8A=82=E7=82=B9=
+=E4=BD=BF=E7=94=A8=E6=9D=A1=E4=BB=B6input=E9=87=8C=E9=9D=A2=E7=9A=84key=E5=
+=AF=B9=E5=BA=94</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">targets</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=BE=93=E5=87=BA=E7=9A=84=E4=B8=
+=8B=E4=B8=80=E4=B8=AA=E8=8A=82=E7=82=B9</td>
+<td colspan=3D"1" class=3D"confluenceTd">Array(NextModule)</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>[{</p><p class=3D"p1">id:"146DE=
+A5F-D6DF-4C9D-91CB-164099BF336D"</p><p>}]</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+<p>1.=E5=BC=80=E5=A7=8B=E8=8A=82=E7=82=B9</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+=09"label": "=E5=BC=80=E5=A7=8B=E8=8A=82=E7=82=B9",
+    "flowType": "start",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>2.=E5=9B=9E=E5=A4=8D=E8=8A=82=E7=82=B9</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">strategy_type</td>
+<td class=3D"confluenceTd"><p>"answer":=E5=9B=9E=E5=A4=8D</p><p>"action": =
+=E5=8A=A8=E4=BD=9C</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">cate</td>
+<td class=3D"confluenceTd"><pre>"1":=E5=A4=A7=E6=A8=A1=E5=9E=8B=E5=9B=9E=E7=
+=AD=94<span style=3D"color: rgb(106,171,115);"><br></span>"2":=E5=88=86=E7=
+=B1=BB<span style=3D"color: rgb(106,171,115);"><br></span>"3":=E7=9B=B4=E6=
+=8E=A5=E5=9B=9E=E7=AD=94<span style=3D"color: rgb(106,171,115);"><br></span=
+>"4":=E6=B6=A6=E8=89=B2<span style=3D"color: rgb(106,171,115);"><br></span>=
+"5":=E4=BA=BA=E5=B7=A5=E6=9C=8D=E5=8A=A1<span style=3D"color: rgb(106,171,1=
+15);"><br></span>"6":=E6=8C=89=E9=94=AE=E6=8B=A8=E5=8F=B7<span style=3D"col=
+or: rgb(106,171,115);"><br></span>"7":=E5=85=B3=E6=9C=BA=E6=9C=8D=E5=8A=A1<=
+br>"8":=E7=9F=A5=E8=AF=86=E5=BA=93</pre></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+=09"label": "=E5=9B=9E=E5=A4=8D=E8=8A=82=E7=82=B9",
+    "flowType": "reply",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": {
+=09=09=09=09"strategy_type": "answer",
+=09=09=09=09"cate": "3",
+=09=09=09=09"keyboard_scene": "",
+=09=09=09=09"direct_answer": "",
+=09=09=09=09"skill_num": "",
+=09=09=09=09"polish_prompt": "",
+=09=09=09=09"llm_prompt": "",
+=09=09=09=09"json_parser":"",
+=09=09=09=09"json_field":"",
+=09=09=09=09"tool_llm":""
+=09=09=09}
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>3.=E8=B5=8B=E5=80=BC=E8=8A=82=E7=82=B9</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">entity_type</td>
+<td class=3D"confluenceTd"><p>"1":=E5=AE=9E=E4=BD=93=E6=8A=BD=E5=8F=96</p><=
+p>"2":=E5=8F=98=E9=87=8F=E7=9B=B4=E6=8E=A5=E8=B5=8B=E5=80=BC</p><p>"3":=E8=
+=87=AA=E5=A2=9E=E5=8F=98=E9=87=8F=E8=B5=8B=E5=80=BC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+=09"label": "=E8=B5=8B=E5=80=BC=E8=8A=82=E7=82=B9",
+    "flowType": "variable",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": [{
+    =09=09=09"entity_name": "",
+    =09=09=09"entity_type": 2,
+    =09=09=09"value": "",
+    =09=09=09"var_name": "",
+=09=09=09=09"is_array": true
+  =09=09=09}] &nbsp;=20
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>4.=E5=87=BD=E6=95=B0=E8=8A=82=E7=82=B9</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+=09"label": "=E5=87=BD=E6=95=B0=E8=8A=82=E7=82=B9",
+    "flowType": "func",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": {
+=09=09=09=09"function_name": "xxxxxxx",
+=09=09=09=09"parameter": "code##message" # =E7=94=A8 ##=E5=8F=B7=E5=88=86=
+=E5=89=B2
+=09=09=09} &nbsp;=20
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>5.=E6=9D=A1=E4=BB=B6=E8=8A=82=E7=82=B9</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=AD=97=E6=AE=B5=E5=90=8D=E5=AD=97</th>
+<th class=3D"confluenceTh">=E5=80=BC</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">condition</td>
+<td class=3D"confluenceTd"><p>"A":=E4=B8=BA=E7=A9=BA</p><p>"B":=E4=B8=8D=E4=
+=B8=BA=E7=A9=BA</p><p>"C": =E7=AD=89=E4=BA=8E</p><p>"D": =E4=B8=8D=E7=AD=89=
+=E4=BA=8E</p><p>"E": =E5=8C=85=E5=90=AB</p><p>"F": =E4=B8=8D=E5=8C=85=E5=90=
+=AB</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">json_parser</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>"1":=E5=85=A8=E9=83=A8</p><p>"2=
+": json=E8=A7=A3=E6=9E=90</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">type</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>"variable": =E5=8F=98=E9=87=8F<=
+/p><p>"llm": LLM=E7=BB=93=E6=9E=9C</p><p>"default": =E9=BB=98=E8=AE=A4</p><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">cond_type</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>"all": =E6=89=80=E6=9C=89</p><p=
+>"any": =E4=BB=BB=E6=84=8F</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">rule_type</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>"custom":=E8=87=AA=E5=AE=9A=E4=
+=B9=89</p><p>"default":"=E9=BB=98=E8=AE=A4"</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+=09"label": "=E6=9D=A1=E4=BB=B6=E8=8A=82=E7=82=B9",
+    "flowType": "condition",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": [
+=09=09=09=09{
+=09=09=09=09=09"value":{ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+=09=09=09=09=09=09"name": "=E6=9C=89=E5=BE=AE=E4=BF=A1",
+=09=09=09=09=09=09"rule_type":"custom",
+    =09=09=09=09=09"rule": {
+      =09=09=09=09=09=09"cond_group": [
+       =09=09=09=09=09 =09{
+          =09=09=09=09=09=09"condition": "B",
+          =09=09=09=09=09=09"value": "",
+          =09=09=09=09=09=09"var_name": "action",
+=09=09=09=09=09=09=09=09"json_parser": "2", # =E5=A4=A7=E6=A8=A1=E5=9E=8B=
+=E9=80=89=E9=A1=B9=E5=85=A8=E9=83=A8=E4=BF=A1=E6=81=AF=E8=BF=98=E6=98=AF=E6=
+=8C=87=E5=AE=9A=E4=BF=A1=E6=81=AF 1 =E5=85=A8=E9=83=A8 2 =E8=A7=A3=E6=9E=90=
+json
+=09=09=09=09=09=09=09=09"type": "llm", =09=09# =E7=B1=BB=E5=9E=8B=EF=BC=9A=
+=E5=AD=97=E7=AC=A6=E4=B8=B2 variable =E5=8F=98=E9=87=8F llm =E5=A4=A7=E6=A8=
+=A1=E5=9E=8B &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+=09=09=09=09=09=09=09}],
+      =09=09=09=09=09=09"cond_type": "all"
+    =09=09=09=09=09}
+  =09=09=09=09=09 },
+=09=09=09=09=09 "key": "854D42EE-6040-4692-9F88-32C1B25FC0D9"
+=09=09=09=09},
+=09=09=09    {
+=09=09=09=09=09"value":{ &nbsp; &nbsp; &nbsp; &nbsp; =20
+=09=09=09=09=09=09"name": "=E6=9C=89=E7=94=B5=E8=AF=9D",
+=09=09=09=09=09    "rule_type":"custom",
+    =09=09=09=09=09"rule": {
+      =09=09=09=09=09=09"cond_group": [
+       =09=09=09=09=09 =09{
+          =09=09=09=09=09=09"condition": "B",
+          =09=09=09=09=09=09"value": "",
+          =09=09=09=09=09=09"var_name": "phone",
+=09=09=09=09=09=09=09=09"json_parser": "1", # =E5=A4=A7=E6=A8=A1=E5=9E=8B=
+=E9=80=89=E9=A1=B9=E5=85=A8=E9=83=A8=E4=BF=A1=E6=81=AF=E8=BF=98=E6=98=AF=E6=
+=8C=87=E5=AE=9A=E4=BF=A1=E6=81=AF 1 =E5=85=A8=E9=83=A8 2 =E8=A7=A3=E6=9E=90=
+json
+=09=09=09=09=09=09=09=09"type": "llm", =09=09# =E7=B1=BB=E5=9E=8B=EF=BC=9A=
+=E5=AD=97=E7=AC=A6=E4=B8=B2 variable =E5=8F=98=E9=87=8F llm =E5=A4=A7=E6=A8=
+=A1=E5=9E=8B
+        =09=09=09=09=09}],
+      =09=09=09=09=09=09"cond_type": "all"
+    =09=09=09=09=09}
+  =09=09=09=09=09 },
+=09=09=09=09=09 "key": "A0701148-4E9F-4139-8791-97DA51720438"
+=09=09=09=09},
+=09=09=09=09{
+=09=09=09=09=09"value":{
+=09=09=09=09=09=09"name":"=E9=BB=98=E8=AE=A4",
+=09=09=09=09=09=09"rule_type":"default",
+=09=09=09=09=09=09"rule":{}
+=09=09=09=09=09},
+=09=09=09=09=09"key":"63B38A4A-6A71-4F08-99AA-2384967CAF53"
+=09=09=09=09}]
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "854D42EE-6040-4692-9F88-32C1B25FC0D9",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+        },
+=09 =09{
+          "key": "A0701148-4E9F-4139-8791-97DA51720438",
+          "targets": [
+              {
+                  "id": "AC5BEB57-82ED-40D1-8B7C-1A5F8BD25BB4"
+              }
+          ]
+        }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>6.<span style=3D"color: rgb(23,43,77);">LLM=E8=8A=82=E7=82=B9</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+    "label": "LLM=E8=8A=82=E7=82=B9",
+    "flowType": "llm",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": {
+=09=09=09=09"llm_prompt": "",
+=09=09=09=09"tool_llm": ""
+=09=09=09} &nbsp;=20
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>7.<span style=3D"color: rgb(23,43,77);">=E5=BC=95=E5=AF=BC=E7=BB=93=E6=
+=9D=9F</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+    "label": "=E5=BC=95=E5=AF=BC=E7=BB=93=E6=9D=9F",
+    "flowType": "end",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [],
+    "outputs": []
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>8.=E4=B8=8B=E4=B8=80=E7=8E=AF=E8=8A=82</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+    "label": "=E4=B8=8B=E4=B8=80=E7=8E=AF=E8=8A=82",
+    "flowType": "next",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [],
+    "outputs": []
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>9.llm=E4=BB=BB=E5=8A=A1=E5=A4=84=E7=90=86</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "id": "ACB020A0-2739-426B-8C76-F6E6795D6131", &nbsp; &nbsp;=20
+    "label": "LLM=E4=BB=BB=E5=8A=A1=E5=A4=84=E7=90=86",
+    "flowType": "llmtask",
+    "position": {
+      "x": 454.98510354678695,
+      "y": 721.4016845336229
+    },
+    "inputs": [
+=09=09{
+=09=09 =09"connected": true,
+=09=09=09"value": {
+=09=09=09=09"llm_prompt": "",
+=09=09=09=09"tool_llm": "",
+=09=09=09=09"chat_turns": 0, # =E5=AF=B9=E8=AF=9D=E8=BD=AE=E6=AC=A1
+=09=09=09=09"params":[
+=09=09=09=09=09{
+=09=09=09=09=09=09"name":"=E5=90=8D=E7=A7=B0",
+=09=09=09=09=09=09"desc":"=E6=8F=8F=E8=BF=B0",
+=09=09=09=09=09=09"example":"=E7=A4=BA=E4=BE=8B",
+=09=09=09=09=09=09"required": true # =E6=98=AF=E5=90=A6=E5=BF=85=E5=A1=AB
+=09=09=09=09=09}
+=09=09=09=09],
+=09=09=09=09"chain_check":[
+=09=09=09=09=09{
+=09=09=09=09=09 =09"value":{ &nbsp; &nbsp; &nbsp; &nbsp; =20
+=09=09=09=09=09=09=09"name": "=E6=9C=89=E7=94=B5=E8=AF=9D",
+=09=09=09=09=09    =09"rule_type":"custom",
+    =09=09=09=09=09=09"rule": {
+      =09=09=09=09=09=09=09"cond_group": [
+       =09=09=09=09=09 =09=09{
+          =09=09=09=09=09=09=09"condition": "B",
+          =09=09=09=09=09=09=09"value": "",
+          =09=09=09=09=09=09=09"var_name": "phone"
+        =09=09=09=09=09=09}],
+      =09=09=09=09=09=09=09"cond_type": "all"
+    =09=09=09=09=09=09}
+  =09=09=09=09=09 =09},
+=09=09=09=09=09 =09"key": "A0701148-4E9F-4139-8791-97DA51720438"
+=09=09=09=09=09},
+=09=09=09=09    {
+=09=09=09=09=09 =09"value":{ &nbsp; &nbsp; &nbsp; &nbsp; =20
+=09=09=09=09=09=09=09"name": "=E9=BB=98=E8=AE=A4",
+=09=09=09=09=09    =09"rule_type":"default",
+    =09=09=09=09=09=09"rule": {}
+  =09=09=09=09=09 =09},
+=09=09=09=09=09 =09"key": "A0701148-4E9F-4139-8791-97DA51720438"
+=09=09=09=09=09}
+=09=09=09=09]
+=09=09=09} &nbsp;=20
+=09=09}
+=09],
+    "outputs": [
+=09    {
+          "key": "next",
+          "targets": [
+              {
+                  "id": "3C7859F5-3CC2-4819-BBCD-32AAB09B5652"
+              }
+          ]
+      }
+    ]
+  }</pre>=20
+</div>
+</div>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_107771_208477881.1730255837894--
