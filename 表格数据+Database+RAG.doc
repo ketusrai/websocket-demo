@@ -1,0 +1,328 @@
+Date: Wed, 30 Oct 2024 11:32:29 +0800 (CST)
+Message-ID: <376283637.108104.1730259149769@confluence>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_108103_699763331.1730259149752"
+
+------=_Part_108103_699763331.1730259149752
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E8=A1=A8=E6=A0=BC=E6=95=B0=E6=8D=AE+Database RAG</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E8=A1=A8=E6=A0=BC=E6=95=B0=E6=8D=AE+Database RAG</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p>=E8=B0=83=E7=A0=94=E7=BB=93=E6=9E=9C=EF=BC=9A</p>
+<p>1=E3=80=81llamaindex=E5=AF=B9SQL=E5=AE=9E=E7=8E=B0=E6=96=B9=E5=BC=8F=EF=
+=BC=9A</p>
+<p>&nbsp; &nbsp; =EF=BC=881=EF=BC=89=E5=AF=B9=E6=89=80=E6=9C=89=E8=A1=A8=E8=
+=BF=9B=E8=A1=8Csummary=EF=BC=8C=E5=B9=B6=E4=B8=94=E4=B8=8E=E8=A1=A8=E7=BB=
+=93=E6=9E=84=E7=9A=84=E6=8F=8F=E8=BF=B0=EF=BC=88=E4=B8=8D=E6=98=AFcreate ta=
+ble=EF=BC=89=E8=BF=9B=E8=A1=8C=E6=8B=BC=E6=8E=A5=E7=BB=84=E6=88=90=E5=AF=B9=
+=E8=A1=A8=E7=9A=84=E6=95=B4=E4=BD=93=E6=8F=8F=E8=BF=B0=E3=80=82=E7=84=B6=E5=
+=90=8E=E5=B0=86=E6=89=80=E6=9C=89=E5=8F=98=E7=9A=84=E8=A1=A8=E8=BF=B0=E5=AD=
+=98=E5=85=A5=E5=90=91=E9=87=8F=E6=95=B0=E6=8D=AE=E5=BA=93=E4=B8=AD(schema c=
+ollection)=E3=80=82</p>
+<p>&nbsp; &nbsp; =EF=BC=882=EF=BC=89=E3=80=90=E5=8F=AF=E9=80=89=E3=80=91=E5=
+=AF=B9=E6=89=80=E6=9C=89=E6=95=B0=E6=8D=AE=E8=A1=A8=E4=B8=AD=E7=9A=84=E6=AF=
+=8F=E4=B8=80=E6=9D=A1=E6=95=B0=E6=8D=AE=E8=BF=9B=E8=A1=8Cembedding=EF=BC=8C=
+=E7=84=B6=E5=90=8E=E6=AF=8F=E4=B8=AA=E8=A1=A8=E4=BD=9C=E4=B8=BA=E4=B8=80=E4=
+=B8=AA=E5=90=91=E9=87=8F=E6=95=B0=E6=8D=AE=E5=BA=93=E4=B8=AD=EF=BC=88table =
+collection)=EF=BC=8C=E5=9C=A8=E5=8F=AC=E5=9B=9E=E6=97=B6=E5=8F=AF=E4=BB=A5=
+=E6=9B=B4=E6=9C=89=E6=95=88=E7=9A=84=E8=8E=B7=E5=8F=96=E7=89=B9=E5=AE=9A=E6=
+=95=B0=E6=8D=AE</p>
+<p>&nbsp; &nbsp; =EF=BC=883=EF=BC=89=E7=94=A8=E6=88=B7=E8=BE=93=E5=85=A5=E5=
+=90=8E=EF=BC=8C=E9=A6=96=E5=85=88=E5=9C=A8=E5=9C=A8schema collection=E4=B8=
+=AD=E8=BF=9B=E8=A1=8C=E6=A3=80=E7=B4=A2=EF=BC=8C=E6=9F=A5=E6=89=BE=E5=88=B0=
+=E7=9B=B8=E5=85=B3=E7=9A=84table=E3=80=82=E7=84=B6=E5=90=8E=E5=86=8D=E5=9C=
+=A8table collection=E8=BF=9B=E8=A1=8C=E6=A3=80=E7=B4=A2=E6=9F=A5=E6=89=BE=
+=E7=9B=B8=E5=85=B3=E7=9A=84=E6=95=B0=E6=8D=AE=EF=BC=88row data=EF=BC=89</p>
+<p>&nbsp; &nbsp; =EF=BC=884=EF=BC=89=E6=9C=80=E5=90=8E=E5=B0=86input=E3=80=
+=81=EF=BC=882=EF=BC=89=E6=9F=A5=E6=89=BE=E7=9A=84=E8=A1=A8=E3=80=81(3)=E6=
+=9F=A5=E6=89=BE=E7=9A=84=E6=95=B0=E6=8D=AE =E7=BB=84=E8=A3=85=E5=85=A5promp=
+t=EF=BC=8C=E5=86=8D=E9=80=9A=E8=BF=87LLM=E7=94=9F=E6=88=90SQL=E8=AF=AD=E5=
+=8F=A5=E3=80=82</p>
+<p><br></p>
+<p>2=E3=80=81langchain=E5=AF=B9SQL=E5=AE=9E=E7=8E=B0=E7=9A=84=E6=96=B9=E5=
+=BC=8F=EF=BC=9A</p>
+<p>&nbsp; =EF=BC=881=EF=BC=89=E8=8E=B7=E5=8F=96schema=E4=B8=AD=E7=9A=84=E6=
+=89=80=E6=9C=89create table=E6=8F=8F=E8=BF=B0=EF=BC=8C=E4=BB=A5=E5=8F=8A=E4=
+=B8=89=E8=A1=8Crow data</p>
+<p>&nbsp; =EF=BC=882=EF=BC=89=E7=84=B6=E5=90=8E=E5=B0=86input=E3=80=81=EF=
+=BC=881=EF=BC=89=E8=8E=B7=E5=8F=96=E5=88=B0=E7=9A=84=E4=BF=A1=E6=81=AF =E7=
+=BB=84=E8=BD=AC=E5=85=A5prompt=EF=BC=8C=E5=86=8D=E9=80=9A=E8=BF=87LLM=E7=94=
+=9F=E6=88=90SQL=E8=AF=AD=E5=8F=A5=E3=80=82</p>
+<p><br></p>
+<p>=E4=BC=98=E5=8A=A3=EF=BC=9A</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table confluenceTable" style=3D"width: 87.6648%;">
+<colgroup>
+<col style=3D"width: 14.9462%;">
+<col style=3D"width: 39.4624%;">
+<col style=3D"width: 45.5914%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><br></th>
+<th class=3D"confluenceTh">llamaindex</th>
+<th class=3D"confluenceTh">langchain</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E6=9E=84=E5=BB=BA=E6=97=B6</td>
+<td class=3D"confluenceTd">=E9=9C=80=E8=A6=81=E5=AF=B9schema=E7=BA=A7=EF=BC=
+=88=E6=88=96=E8=80=85table=E7=BA=A7=EF=BC=89=E5=B0=B1=E8=A1=8Csummary=E4=BB=
+=A5=E5=8F=8Aembedding=EF=BC=8C=E6=AF=94=E8=BE=83=E8=80=97=E6=97=B6=E4=BB=A5=
+=E5=8F=8A=E4=BD=BF=E7=94=A8=E6=9B=B4=E5=A4=9A=E7=9A=84token</td>
+<td class=3D"confluenceTd">=E6=B2=A1=E6=9C=89=E5=AF=B9schema=E7=BA=A7=EF=BC=
+=88=E6=88=96=E8=80=85table=E7=BA=A7=EF=BC=89=E5=81=9Asummary=E6=88=96=E8=80=
+=85embedding=EF=BC=8C=E6=9E=84=E5=BB=BA=E6=97=B6=E8=80=97=E6=97=B6=E7=9F=AD=
+=EF=BC=8C=E4=B8=8D=E8=8A=B1=E8=B4=B9token</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">=E6=A3=80=E7=B4=A2=E6=97=B6</td>
+<td class=3D"confluenceTd">=E9=80=9A=E8=BF=87=E5=AF=B9schema=E7=BA=A7summar=
+y=E5=B0=B1=E8=A1=8C=E5=8F=AC=E5=9B=9E=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=8F=AC=
+=E5=9B=9E=E5=B0=91=E9=87=8F=E7=9A=84table=E5=8F=82=E4=B8=8ESQL=E7=94=9F=E6=
+=88=90</td>
+<td class=3D"confluenceTd">=E4=BD=BF=E7=94=A8schema=E6=89=80=E5=B1=9E=E7=9A=
+=84=E6=89=80=E6=9C=89table=E8=BF=9B=E8=A1=8CSQL=E7=94=9F=E6=88=90</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p>=E7=BB=BC=E5=90=88=E5=88=A4=E6=96=AD=EF=BC=9A</p>
+<p>=EF=BC=881=EF=BC=89=E4=BD=BF=E7=94=A8llamaindex=E5=8F=AF=E4=BB=A5=E6=9B=
+=B4=E6=9C=89=E6=95=88=E7=9A=84=E8=BF=9B=E8=A1=8CRAG=EF=BC=9B</p>
+<p>=EF=BC=882=EF=BC=89=E4=BD=86=E5=A6=82=E6=9E=9C=E4=BD=BF=E7=94=A8table=E7=
+=BA=A7=E5=88=AB=E7=9A=84embedding=E5=8F=AF=E8=83=BD=E4=BC=9A=E6=AF=94=E8=BE=
+=83=E8=80=97=E6=97=B6=EF=BC=8C=E8=80=8C=E4=B8=94=E9=9C=80=E8=A6=81=E8=80=83=
+=E8=99=91=E5=A2=9E=E9=87=8F=E6=95=B0=E6=8D=AE=E6=80=8E=E4=B9=88=E5=A4=84=E7=
+=90=86=E7=AD=89=E9=97=AE=E9=A2=98=EF=BC=9B</p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_108103_699763331.1730259149752--
